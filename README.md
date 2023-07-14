@@ -1,8 +1,13 @@
 # fitness-app
 Fitness App for Android
-# MyApp Name
+# Fitness-App
 
 This is an Android application built using Android Studio. The app utilizes Firebase for user authentication, providing a secure and seamless experience for the users.
+
+## Contributors
+
+- Arun S
+- Asutosh Urs
 
 ## Features
 
@@ -40,4 +45,6 @@ This project is licensed under the Creative Commons Universal 1.0 License.
 For any inquiries or further information, please reach out to Asutosh via [Twitter](https://twitter.com/imasutosh1)
 or Arun via [Mail](mailto:arunnimi2001@gmail.com)
 
-Happy coding!
+## References
+- [Android Studio Developer Guides](https://developer.android.com/docs).
+- [Firebase Documentation](https://firebase.google.com/docs/).
