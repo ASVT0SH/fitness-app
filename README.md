@@ -38,6 +38,6 @@ This project is licensed under the Creative Commons Universal 1.0 License.
 ## Contact
 
 For any inquiries or further information, please reach out to Asutosh via [Twitter](https://twitter.com/imasutosh1)
-or Arun via [Mail](arunnimi2001@gmail.com)
+or Arun via [Mail](mailto:arunnimi2001@gmail.com)
 
 Happy coding!
