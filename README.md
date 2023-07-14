@@ -16,7 +16,7 @@ This is an Android application built using Android Studio. The app utilizes Fire
 
 To run the app locally, follow these steps:
 
-1. Clone the repository: `git clone [https://github.com/ASVT0SH/fitness-app/](https://github.com/ASVT0SH/fitness-app/)`.
+1. Clone the repository: `git clone https://github.com/ASVT0SH/fitness-app/`.
 2. Open the project in Android Studio.
 3. Configure Firebase: Create a Firebase project and set up Firebase Authentication. Obtain the necessary configuration files and add them to the app module.
 4. Build and run the app on an emulator or a physical device.
