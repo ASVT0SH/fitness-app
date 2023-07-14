@@ -37,6 +37,7 @@ This project is licensed under the Creative Commons Universal 1.0 License.
 
 ## Contact
 
-For any inquiries or further information, please reach out to Asutosh via twitter.com/imasutosh1
+For any inquiries or further information, please reach out to Asutosh via [Twitter](https://twitter.com/imasutosh1)
+
 
 Happy coding!
