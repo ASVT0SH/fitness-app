@@ -9,6 +9,9 @@ This is an Android application built using Android Studio. The app utilizes Fire
 - Arun S
 - Asutosh Urs
 
+## Project Report
+[Project Report](https://github.com/ASVT0SH/fitness-app/blob/main/ProjectReport.pdf).
+
 ## Features
 
 - User Authentication: The app integrates Firebase Authentication to enable users to create an account, log in, and manage their authentication state securely.
