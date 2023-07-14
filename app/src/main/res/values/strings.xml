@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Yoga App</string>
+    <string name="ADMOB_ADS_UNIT_ID">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="ad_attribution">Ad</string>
+    <string name="FitnessApp">425658857631-0ednooeqgsn472qluq2cdc561bpj19me.apps.googleusercontent.com</string>
+
+    <string name="pose1">    Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.\n\n
+                             Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
+                             Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
+                             Step 4:- Return to the starting position and repeat the movement with your opposite leg.. </string>
+    <string name="pose2">    Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base ofyour head and elbows pointed out. Using your abdominals bring your head and shoulders off the mat and come up into a crunch, then lower with control. </string>
+    <string name="pose3">    Step 1:- This movement is performed with a bench and a foot stool.\n\n
+                             Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
+                             Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
+                             Step 4:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.\n\n
+                             Step 5:- Slowly extend your arms raising your body back up. Pause and contract your triceps muscles at the top. Pause and repeat the movement.</string>
+    <string name="pose4">    Step 1:- Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n\n
+                             Step 2:- Put your hands behind your head, then bring your knees in towards your Chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.\n\n
+                             Step 3:-Straighten your right leg out to about a 4S-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee.\n\n
+                             Step 4:- Make sure your rib cage is moving and hotjust your elbows. Now switch sides and do the same motion on the other side to complete onerep. </string>
+    <string name="pose5">   Step 1:- Lay down with your hands to your sides for support. \n\n
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominals tight.\n\n
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+
+
+    <string name="pose6">    Step 1:- Lie on your back on an exercise mat. With your arms straight at your sides, bend your knees and place your feet flat on the floor between18 and 24 inches apart.\n\n
+                             Step 2:- Breathing out, crunch your ab slightly upward and sideways to the right a couple of inches until your right hand touches your right heel.\n\n
+                             Step 3:- Hold brief|y and then return to your starting position while inhaling. Repeat on the left side. </string>
+    <string name="pose7">    Step 1:- You can perform straight-leg crunches by lying face up on the floor with your legs straight and then moving your upper body as you would for a standard bent-knee crunch.\n\n
+                             Step 2:- Alternatively, lie on your back, raise your legs so they are perpendicular to the floor and then perform the standard crunching motion with your torso.
+                             </string>
+    <string name="pose8">    Step 1:- Lie down on the floor placing your feet either under something that Will not move or by having a partner hold them. Your legs should be bent at the kneesPlace your hands behind your head and lock them together by claspihg your fingers. This is the starting position.\n\n
+                             Step 2:- Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.\n\n
+                             Step 3:- Once you feel the contraction for a second, lower your upper body back down to the starting position while inhahng. \n\n
+                             Step 4:- Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="signup" />
+    <string-array name="title_story">
+        <item>Build For Muscles</item>
+        <item>Replace with matcha Green tea </item>
+        <item>Stop counting </item>
+        <item>Do Job</item>
+        <item>Do Yoga</item>
+        <item>Eat healthy </item>
+        <item>Do not Skip breakfast</item>
+        <item>Sleep Well</item>
+
+    </string-array>
+    <string-array name="details_story">
+        <item>Build For Muscles:-  Here are some tips and dietary guidelines to help you in your muscle-building journey:
+
+ 1. Caloric Surplus: Consume more calories than you burn to provide your body with the energy it needs for muscle growth. Aim for a slight caloric surplus of around 250-500 calories per day.
+
+ 2. Sufficient Protein Intake: Protein is crucial for muscle growth and repair. Consume high-quality protein sources such as lean meats, poultry, fish, eggs, dairy products, legumes, and plant-based protein like tofu and tempeh. Aim for around 1.6-2.2 grams of protein per kilogram of body weight per day.
+
+ 3. Complex Carbohydrates: Include complex carbohydrates in your diet, such as whole grains, brown rice, quinoa, sweet potatoes, and oats. These provide sustained energy for your workouts and aid in muscle recovery.
+
+ 4. Healthy Fats: Include healthy fats in your diet, such as avocados, nuts, seeds, olive oil, and fatty fish like salmon. They help in hormone production and provide essential nutrients.
+
+ 5. Hydration: Drink plenty of water to stay hydrated, as it is essential for optimal muscle function and recovery.</item>
+        <item>Replace with matcha Green tea :-  1. Start with a gradual transition:  Avoid bottled green tea drinks as they often contain added sugars or artificial additives.
+        2. Consume green tea between meals: To maximize the benefits of green tea, consume it between meals rather than with your meals. This helps improve nutrient absorption and prevents interference with iron absorption from plant-based foods. 3. Stay hydrated: Green tea has a diuretic effect, so it is important to drink enough water throughout the day to stay properly hydrated. Aim for at least 8 glasses (64 ounces) of water daily in addition to your green tea consumption.</item>
+        <item>Stop counting :-  1. Focus on mindful eating: Pay attention to your body  hunger and fullness cues. Eat when you are hungry and stop when you are comfortably satisfied. Slow down and savor each bite being fully present during meal times.
+            2.Emphasize whole, unprocessed foods: Instead of counting calories, shift your focus to consuming nutrient-dense foods. Fill your plate with fruits, vegetables, whole grains, lean proteins, and healthy fats. These foods provide essential nutrients and can help you feel more satisfied.</item>
+        <item>Do Job:- 1.Eat a balanced diet: Consume a variety of nutrient-rich foods from different food groups, including fruits, vegetables, whole grains, lean proteins, and healthy fats. This will provide your body and brain with the necessary nutrients for optimal functioning.
+           2. Stay hydrated: Dehydration can negatively impact your cognitive abilities and overall performance. Drink an adequate amount of water throughout the day to maintain hydration levels.</item>
+        <item>Do Yoga:- 1. Eat light meals: It is recommended to practice yoga on an empty stomach or with a light meal. Allow at least 2-3 hours for digestion before engaging in a yoga session. Avoid heavy, greasy, or spicy foods that may cause discomfort or sluggishness during your practice.
+          2.  Emphasize whole foods: Consume a diet rich in whole, unprocessed foods such as fruits, vegetables, whole grains, legumes, and lean proteins. These provide essential nutrients, antioxidants, and fiber to nourish your body and support its optimal functioning.
+        </item>
+        <item>Eat healthy:- 1. Balanced diet: Consume a variety of nutrient-dense foods from all food groups, including fruits, vegetables, whole grains, lean proteins, and healthy fats. Aim for moderation and portion control.
+        2. Regular physical activity: Engage in regular exercise or physical  activity that you enjoy. Aim for a combination of cardiovascular exercises, strength training, and flexibility exercises to improve overall fitness.</item>
+        <item> Do not Skip breakfast:- 1.  Plan ahead: Take a few minutes in the evening to plan your breakfast for the next day. Decide what you will eat and gather any ingredients or prepare any make-ahead options.
+         2. Keep it simple: Choose quick and easy breakfast options that require minimal preparation. For example, overnight oats, yogurt with fruits and nuts, whole grain toast with nut butter, or a smoothie packed with fruits and vegetables.
+        3. Prep in advance: Prepare components of your breakfast in advance to save time in the morning. For instance, you can pre-cut fruits, portion out dry ingredients for overnight oats, or make a batch of healthy muffins or breakfast bars over the weekend.</item>
+        <item>Sleep Well:- 1.  Stick to a sleep schedule: Try to go to bed and wake up at the same time every day, even on weekends. This helps regulate your body\'s internal clock and establishes a consistent sleep routine.
+           2. Create a bedtime routine: Establish a relaxing routine before bed to signal to your body that it\'s time to wind down. This can include activities such as reading a book, taking a warm bath, practicing relaxation techniques like deep breathing or meditation, or listening to calming music.
+
+       </item>
+
+    </string-array>
+</resources>
